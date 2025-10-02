@@ -62,3 +62,8 @@ This understanding supports **travelers** in choosing affordable stays, **hosts*
 - Explore **guest preference patterns** for personalized recommendations.
 
 ---
+
+## 👩‍💻 Author
+
+**Manika Sarkar**  
+[GitHub](https://github.com/Manika7777)
