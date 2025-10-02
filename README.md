@@ -27,7 +27,7 @@ This understanding supports **travelers** in choosing affordable stays, **hosts*
   - `Number of Reviews` – Guest feedback
   - `Availability 365` – Number of days listing is available per year
   - `Host Listings Count` – Number of listings per host
-- **Dataset Size:** *[Add your dataset rows/columns]*
+- **Dataset Size:** *102,599 rows × 26 columns*
 
 ---
 
